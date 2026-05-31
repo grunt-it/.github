@@ -14,7 +14,7 @@ I am Nik. grunt is how I work: custom apps (booking, ordering, the admin you run
 
 ### How I build
 
-SvelteKit and Cloudflare Workers, TypeScript end to end, Effect, Kysely and Postgres. Open license where it makes sense, contributions back upstream, and your code stays in your account so you are never locked in.
+SvelteKit and Cloudflare Workers, TypeScript end to end, Effect, Kysely and Postgres. Open license where it makes sense, contributions back upstream, and no lock-in: the code and the data are yours, the hosting migrates cleanly, and you can move to your own accounts whenever you want.
 
 ### Work with me
 
